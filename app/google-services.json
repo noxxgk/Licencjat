@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "664360098762",
+    "project_id": "zaliczeniepp",
+    "storage_bucket": "zaliczeniepp.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:664360098762:android:247a2dd3d4adcd30f28d33",
+        "android_client_info": {
+          "package_name": "com.example.appz"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_RPeUgA4F4wSoxsYzpqeJMvgzOZ72MtQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
